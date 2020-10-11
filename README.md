@@ -3,7 +3,7 @@
   
 
 
-<div style="margin-top : 10px;margin-bottom:40px" >
+<div style="margin-top : 10px;margin-bottom:40px" class="bg-purple-light" >
   <h1 style="font-size:36px">I am <span style="color:#13e9f7">Kunal<span></h1>
   <i></i>
 </div>
@@ -11,7 +11,7 @@
 
 
 <div >
-<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 
 
 
@@ -84,8 +84,5 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/kunalsolanke" />
 </p>
 </div>
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
+
 </div>
