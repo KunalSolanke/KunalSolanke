@@ -25,7 +25,7 @@
  </div>
  <div style="display:flex;align-items:center;justify-content:center;flex:1 ;">
  <div>
-  <img style="border-radius:10%;max-width:500px;" src="https://thumbs.gfycat.com/PleasingMetallicDavidstiger-max-1mb.gif" />
+  <center><img style="border-radius:10%;max-width:500px;" src="https://thumbs.gfycat.com/PleasingMetallicDavidstiger-max-1mb.gif" /></center>
   <h6>Not sure what to put here??🤨😂😶</h6> 
   </div>
 </div>
